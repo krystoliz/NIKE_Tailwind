@@ -1,3 +1,7 @@
+# NIKE Website
+Simple Project to learn Tailwind Basics
+https://www.youtube.com/watch?v=tS7upsfuxmo&t=2231s
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
